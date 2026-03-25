@@ -1,4 +1,4 @@
-md_eviction_warrants_through_sept2025.csv
-md_eviction_warrants_through_sept2025.geoparquet
+*.csv
+*.geoparquet
 geocode_inputs
 geocode_outputs
